@@ -15,11 +15,11 @@ This project was inspired by a few hackathon designs I've seen this year while m
 1. ✅  Fork the Project
 2. ✅  Build + Run 
 3. ✅  Tap to Present the View Controller
-4. ✅. Start Composing 🖋
+4. ✅  Start Composing 🖋
 
 ## Try it Yourself
 
-Update any of these `FirstViewController`, `SecondViewController`, or `ThirdViewController` and add more than just a different background color.
+Create a CustomViewController that implements `ComposerViewControllerDelegate`. Save the user's input!
 
 ```swift
 
